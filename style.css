@@ -302,6 +302,7 @@ div.hotel-populaire{
     border-radius:10px;
     border: 4px white solid;
     background-color: white;
+    box-shadow: 0 0 5px rgba(0, 0,0,0.3);
     }
 
 div.hotel-populaire img{
